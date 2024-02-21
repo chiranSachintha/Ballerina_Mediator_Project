@@ -75,7 +75,8 @@ Here's a sample configuration for the class mediator in Micro Integrator:
 </api>
 
 ```
-![Design View](https://drive.google.com/file/d/1zgWlqI8SKuVtekOSyBSLIf5a7QitKuJL/view?usp=sharing)
+<img width="946" alt="Screenshot 2024-02-21 at 16 36 18" src="https://github.com/chiranSachintha/Ballerina_Mediator_Project/assets/33259160/152a037b-ee11-4e78-b725-4c5cda625773"><br />
+
 
 This configuration will apply the transformation specified in the `transform_2` function of the  `Datamapper` class in the Ballerina project.
 
