@@ -83,3 +83,5 @@ This configuration will apply the transformation specified in the `transform_2` 
 ### Contribution
 
 Contributions are welcome! Feel free to open issues or pull requests for any improvements or additional features.
+
+Note: For implementation details, please refer to: https://github.com/chiranSachintha/Ballerina_Mediator
